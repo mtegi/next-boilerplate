@@ -1,0 +1,9 @@
+{
+  "url": "https://example.com",
+  "name": "Site Name",
+  "titleTemplate": "Demo | %s",
+  "i18n": {
+    "locales": ["en", "pl"],
+    "defaultLocale": "en"
+  }
+}
